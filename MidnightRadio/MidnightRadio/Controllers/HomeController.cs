@@ -27,7 +27,7 @@ namespace MidnightRadio.Controllers
             return View();
         }
 
-        public JsonResult RandomVideo()
+        public JsonResult RandomSong()
         {
             
 
